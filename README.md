@@ -3,7 +3,7 @@
 
 Por Filipe Carbonera de Souza
 
-Neste projeto apresentarei meu resultado do desafio final do BootCamp de DataScience Aplicada II da Alura, ao qual iniou-se em maio 2021 e finalizar-se-á com a entrega deste relatório. Neste repositório há uma pasta "DADOS" contendo os dados em excel disponibilizados no Kaggle do Hospital Sírio-Libanês, uma pasta IMAGENS, contendo as imagens utilizadas do repositório e uma pasta NOTEBOOK contendo o notebook com todo o código necessário para a realização deste relatório, além dos arquivos README.md e LICENCE.
+Neste projeto irei apresentar meus resultados do desafio final do BootCamp de DataScience Aplicada II da Alura, ao qual iniou-se em maio 2021 e finalizar-se-á com a entrega deste relatório. Neste repositório há uma pasta chamada "DADOS" contendo os dados em excel disponibilizados no Kaggle do Hospital Sírio-Libanês, uma pasta "IMAGENS", contendo as imagens utilizadas do repositório e uma pasta "NOTEBOOK", contendo o notebook com todo o código necessário para a realização deste relatório, além dos arquivos README.md e LICENCE.
 
 **CONTEXTO E OBJETIVO:**
 
@@ -13,7 +13,7 @@ Com a evolução da pandemia do COVI-19, surgiu a preocupação relativa a capac
 
 ![graf](https://user-images.githubusercontent.com/77364648/129631176-f184532e-0e4f-430e-809f-6ceda1523f4e.gif)
 
-Com isso o Hospital Sírio-Libanês propôes através da plataforma Kaggle o desafio de construirmos um modelo de machine learning para prever se um paciente que é admitido no hospital com Covid precisará de um leito de UTI durante sua permanência no hospital ou não.
+Com isso o Hospital Sírio-Libanês propõe através da plataforma Kaggle o desafio de construirmos um modelo de Machine Learning para prever se um paciente que é admitido no hospital com Covid precisará de um leito de UTI durante sua permanência no hospital ou não.
 
 Nas palavras do próprio hospital, "Quando conseguimos definir a quantidade de leitos necessários em um determinado hospital,conseguimos evitar rupturas, visto que, caso outra pessoa procure ajuda e, eventualmente, precise de cuidados intensivos, o modelo preditivo já conseguirá detectar essa necessidade e, desta forma, a remoção e transferência deste(a) paciente pode ser organizada antecipadamente."
 
