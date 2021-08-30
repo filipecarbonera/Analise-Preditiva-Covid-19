@@ -1,4 +1,4 @@
-
+![](https://github.com/filipecarbonera/analise_preditiva_covid_19/blob/main/IMAGENS/Hospital-S%C3%ADrio-Liban%C3%AAs.jpeg)
 **COVID-19 ANÁLISE PREDITIVA DA NECESSIDADE DE LEITOS DE UTI POR PACIENTES ADMITIDOS**
 
 Por Filipe Carbonera de Souza
