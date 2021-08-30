@@ -179,6 +179,6 @@ Com este estudo foi possível permear todos os tópicos apresentados no Bootcamp
 
 Agradeço imençamente a toda a equipe da Alura que fez parte dessa trajetória de mais de quatro meses. Os aprendizados, resumidos neste relatório, são de grande importancia e significado para mim e minha carreira.
 
-CONTATOS
+**CONTATOS**
 
 [Fique a vontade para me contatar](https://linktr.ee/filipecarbonera)!
