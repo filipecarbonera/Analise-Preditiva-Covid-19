@@ -3,7 +3,7 @@
 
 Por Filipe Carbonera de Souza
 
-Neste projeto apresentarei meu resultado do desafio final do BootCamp de DataScience Aplicada II da Alura, ao qual iniou-se em maio 2021 e finalizar-se-á com a entrega deste relatório. Neste repositório há uma pasta "DADOS" contendo os dados em excel disponibilizados no Kaggle do Hospital Sírio-Libanês e uma pasta NOTEBOOK contendo o notebook com todo o código necessário para a realização deste relatório, além dos arquivos README.md e LICENCE.
+Neste projeto apresentarei meu resultado do desafio final do BootCamp de DataScience Aplicada II da Alura, ao qual iniou-se em maio 2021 e finalizar-se-á com a entrega deste relatório. Neste repositório há uma pasta "DADOS" contendo os dados em excel disponibilizados no Kaggle do Hospital Sírio-Libanês, uma pasta IMAGENS, contendo as imagens utilizadas do repositório e uma pasta NOTEBOOK contendo o notebook com todo o código necessário para a realização deste relatório, além dos arquivos README.md e LICENCE.
 
 **CONTEXTO E OBJETIVO:**
 
