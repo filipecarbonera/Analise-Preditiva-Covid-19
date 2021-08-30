@@ -169,13 +169,13 @@ RandomForestClassifier ([documentação](https://scikit-learn.org/0.15/modules/g
 
 Tais metodos foram escolhidos devido sua relevancia e popularidade entre os metodos de classificação existentes. 
 
-CONCLUSÃO
+**CONCLUSÃO**
 
 Dentre eles, o que apresentou melhor resultado foi o **RandomForestClassifier**, pois o ROC AUC score foi o maior, ou seja, é o modelo que melhor consegue prever as pessoas que irão e não irão para a UTI.
 
 Com este estudo foi possível permear todos os tópicos apresentados no Bootcamp de Data Science Aplicada da Alura, mesmo que nem todos tenham sido aplicados diretamente a este estudo. Para próximos estudos em Data Science e Machine Learning irei me aprofundar mais em cada um dos tópicos abordados e em especial a escolha e definição de hiperparametros para os modelos, além de dedicar mais tempo a plotagem de gráficos para melhoria do storytelling.
 
-AGRADECIMENTOS
+**AGRADECIMENTOS**
 
 Agradeço imençamente a toda a equipe da Alura que fez parte dessa trajetória de mais de quatro meses. Os aprendizados, resumidos neste relatório, são de grande importancia e significado para mim e minha carreira.
 
